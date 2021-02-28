@@ -1,0 +1,35 @@
+/* ------------------------------------------------------------------------------ */
+/* DEFAULT BUTTON STYLE */
+/* ------------------------------------------------------------------------------ */
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container-space {
+  margin-top: 50px;
+}
+
+.button-container--start {
+  justify-content: start;
+}
+
+.button {
+  padding: 15px 30px;
+  border: 1px solid #4985ff;
+  color: #fff;
+  background: #4985ff;
+  box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+  border-radius: 30px;
+  font-size: 1.6rem;
+  line-height: 1.95rem;
+  cursor: pointer;
+  outline: none;
+}
+
+.button:hover {
+  color: #4985ff;
+  background: #fff;
+}

@@ -1,0 +1,23 @@
+/* ------------------------------------------------------------------------------ */
+/* SECTION ALL-PROJECTS */
+/* ------------------------------------------------------------------------------ */
+
+.all-projects {
+  /* height: 100vh; */
+  background: #f6f6f8;
+  padding: 100px 0;
+}
+
+.all-projects__images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.all-projects__image {
+  width: 255px;
+  height: 255px;
+  object-fit: cover;
+  border-radius: 10px;
+}

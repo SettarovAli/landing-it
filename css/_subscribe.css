@@ -1,0 +1,38 @@
+/* ------------------------------------------------------------------------------ */
+/* SECTION SUBSCRIBE */
+/* ------------------------------------------------------------------------------ */
+
+.subcribe {
+  margin: 85px 0;
+}
+
+.subscribe__form {
+}
+
+.subscribe__input {
+  width: 299px;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  font-size: 1.6rem;
+  padding: 10px;
+  outline: none;
+}
+
+.subscribe__btn {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  transform: translateX(-3px);
+  padding: 10px 30px;
+}
+
+.subscribe__heading-space {
+  margin-bottom: 20px;
+}
+
+.subscribe__input-space {
+  margin-bottom: 35px;
+}

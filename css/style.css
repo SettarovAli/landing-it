@@ -1,0 +1,15 @@
+/* MAIN SELECTORS */
+@import "./_main.css";
+
+/* BUTTON */
+@import "./_button.css";
+
+/* SECTIONS */
+@import "./_header.css";
+@import "./_services.css";
+@import "./_about.css";
+@import "./_all-services.css";
+@import "./_all-projects.css";
+@import "./_video.css";
+@import "./_subscribe.css";
+@import "./_footer.css";

@@ -1,0 +1,42 @@
+/* ------------------------------------------------------------------------------ */
+/* SECTION SERVICES */
+/* ------------------------------------------------------------------------------ */
+
+.services {
+  padding: 90px 0;
+}
+
+.services__items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 55px 0;
+}
+
+.services__item {
+  display: flex;
+  align-items: baseline;
+}
+
+.services__content {
+  width: 220px;
+}
+
+.services__content-para {
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+}
+
+.services__img-container {
+  padding: 10px;
+  border: 1px solid #e0e0e0;
+  border-radius: 50%;
+  margin-right: 27px;
+}
+
+.services__img-container-inner {
+  padding: 25px;
+  border: 1px solid #4985ff;
+  border-radius: 50%;
+}

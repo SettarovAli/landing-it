@@ -1,0 +1,54 @@
+/* ------------------------------------------------------------------------------ */
+/* SECTION ABOUT */
+/* ------------------------------------------------------------------------------ */
+
+.about {
+  background: #f6f6f8;
+}
+
+.about__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 90px 0;
+}
+
+.about__text {
+  width: 490px;
+}
+
+.about__img {
+  width: 500px;
+  height: 400px;
+  border-radius: 30px;
+}
+
+.about__figures {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 70px 0;
+}
+
+.about__figures-item:not(:last-child) {
+  margin-right: 100px;
+}
+
+.about__figures-img {
+  margin-right: 20px;
+}
+
+.about__figures-number {
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 5.2rem;
+  color: #000;
+}
+
+.about__figures-bottom {
+  margin: 7px 0;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.5rem;
+  color: #999999;
+}
